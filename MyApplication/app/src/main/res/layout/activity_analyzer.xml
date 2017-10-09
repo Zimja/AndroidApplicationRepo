@@ -19,8 +19,8 @@
 
     <TextView
         android:id="@+id/metric1TextView"
-        android:layout_width="181dp"
-        android:layout_height="64dp"
+        android:layout_width="197dp"
+        android:layout_height="94dp"
         android:layout_marginBottom="8dp"
         android:layout_marginTop="43dp"
         android:text="This Cow Approves Of Your Choices"
@@ -32,6 +32,7 @@
         app:layout_constraintVertical_bias="0.0"
         tools:layout_constraintLeft_creator="1"
         tools:layout_constraintRight_creator="1"
-        tools:layout_constraintTop_creator="1" />
+        tools:layout_constraintTop_creator="1"
+        app:layout_constraintHorizontal_bias="0.502" />
 
 </android.support.constraint.ConstraintLayout>
